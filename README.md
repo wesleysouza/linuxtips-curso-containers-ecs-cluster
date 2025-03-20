@@ -7,7 +7,7 @@ aws ssm get-parameters \
     --names /aws/service/ecs/optimized-ami/amazon-linux-2/recommended
 ```
 
-[Calling the ECS optimized AMI public parameter in Parameter Store](https://docs.aws.amazon.com/systems-manager/latest/userguide/parameter-store-public-parameters-ecs.html)
+Reference: [Calling the ECS optimized AMI public parameter in Parameter Store](https://docs.aws.amazon.com/systems-manager/latest/userguide/parameter-store-public-parameters-ecs.html)
 
 ## Testing LB with curl
 
